@@ -1,6 +1,3 @@
-const typeDefs = require('./typeDefs');
-const resolvers = require('./resolvers');
-
 const typeDefs = `
 type User {
     _id: ID
